@@ -7,3 +7,4 @@ cursor.execute(sql)
 connection.commit()
 cursor.close()
 #just some comment
+#Second Comment
