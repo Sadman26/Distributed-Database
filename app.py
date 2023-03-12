@@ -6,3 +6,4 @@ sql = '''copy omg from 'E:\DDB\data.csv' delimiter ',' csv header;'''
 cursor.execute(sql)
 connection.commit()
 cursor.close()
+#just some comment
